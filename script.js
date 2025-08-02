@@ -1,3 +1,4 @@
+
 const audio = document.getElementById("audio-player");
 const playBtn = document.getElementById("play-btn");
 const prevBtn = document.getElementById("prev-btn");
